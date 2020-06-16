@@ -10,5 +10,5 @@ docs_dir: docs
 
 nav:
 - Home: README.md
-  - Create a Role: CREATE_A_ROLE.md
-  - Retrofit a Role: RETROFIT_A_ROLE.md
+- Create a Role: CREATE_A_ROLE.md
+- Retrofit a Role: RETROFIT_A_ROLE.md
